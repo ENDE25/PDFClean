@@ -7,4 +7,4 @@ It is available in:
 
 ![image](https://github.com/user-attachments/assets/d235a297-5cab-45d4-b6df-08849e8576e6)
 
->You dont need to install the .exe in your computer, it is a portable program and it does not need Admin permission. In order to use it, just right click on the file and select "save link as", save it in your computer and double click on it to use.
+>You don't need to install the .exe file on your computer, as it is a portable program and does not require admin permissions. To use it, simply right-click on the file, select "Save link as", save it to your computer, and double-click it to run.
