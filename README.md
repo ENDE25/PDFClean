@@ -7,4 +7,4 @@ It is available in:
 
 ![image](https://github.com/user-attachments/assets/d235a297-5cab-45d4-b6df-08849e8576e6)
 
->You don't need to install the .exe file on your computer, as it is a portable program and does not require admin permissions. To use it, simply right-click on the file, select "Save link as", save it to your computer, and double-click it to run.
+>You don't need to install the .exe file on your computer, as it is a portable program and does not require admin permissions. To use it, simply right-click on the file, select "Save link as", save it to your computer, and double-click it to run. As it is not signed, your anti-virus might warn you about using it. If you find problems just download the python version and run it with `python PDFClean.py`
